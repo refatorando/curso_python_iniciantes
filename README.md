@@ -1,3 +1,4 @@
+markdown: kramdown
 # curso_python_iniciantes
 
 - [Curso Python #01 - Configurar o ambiente e Hello World](https://youtu.be/Jk4kuuwLThA){:target="_blank"}
