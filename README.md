@@ -1,8 +1,8 @@
 # Curso de Python para Iniciantes
 
-Curso em video aulas Gravadas no Youtube no [Canal Refatorando](https://youtube.com/refatorando).
+Curso em vídeo aulas disponibilizadas de forma gratuita no Youtube [Canal Refatorando](https://youtube.com/refatorando).
 
-O Objetivo do Curso é não só ensinar Python basico, mas conceitos basicos de programação e algoritmos.
+O Objetivo do curso é não só ensinar Python básico, mas também conceitos básicos de programação e algoritmos.
 
 Tutor: Roger Santos
 
