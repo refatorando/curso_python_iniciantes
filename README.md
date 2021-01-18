@@ -24,6 +24,6 @@ Tutor: Roger Santos
 - [Curso Python #09 - Loops, While e For](https://youtu.be/o-1ciQ_I8-4)
 - [Curso Python #10 - Dicionarios e Set](https://youtu.be/7uVwpmuw4Yg)
 - [Curso Python #11 - Try ... except, tratando exceções](https://youtu.be/U0n7CZXGZGE)
-- [Curso Python #12 - Manipulando arquivos](#) 19/01/21
+- [Curso Python #12 - Manipulando arquivos](https://youtu.be/G-kUBX0U8IQ) 19/01/21
 - [Curso Python #13 - Modulos e Pip](#) 26/01/21
 - [Curso Python #14 - Classes e Objetos](#) 02/02/21
