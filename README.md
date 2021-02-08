@@ -26,4 +26,4 @@ Tutor: Roger Santos
 - [Curso Python #11 - Try ... except, tratando exceções](https://youtu.be/U0n7CZXGZGE)
 - [Curso Python #12 - Manipulando arquivos](https://youtu.be/G-kUBX0U8IQ)
 - [Curso Python #13 - Modulos e Pip](https://youtu.be/hx4RSG1EkHU)
-- [Curso Python #14 - Classes e Objetos](#) 02/02/21
+- [Curso Python #14 - Classes e Objetos](https://youtu.be/3XbUhw1CcT8)
